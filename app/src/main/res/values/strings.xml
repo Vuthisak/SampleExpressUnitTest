@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestUnit</string>
+    <string name="main">Main Screen</string>
+    <string name="secondary">Secondary Screen</string>
+</resources>
