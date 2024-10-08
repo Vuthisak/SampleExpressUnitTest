@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "TestUnit"
 include(":app")
- 
+include(":espressouitest")
